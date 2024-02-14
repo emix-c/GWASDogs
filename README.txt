@@ -1,0 +1,2 @@
+Performed GWAS analysis on canine chip data from drug detection dogs: German Shepherd and Labrador Retrievers. Data from Dryad: https://doi.org/10.5061/dryad.v6wwpzgw0
+Utilized Plink to perform QC and PCA. Calculated the genomic inbreeding coefficient using runs of homozygosity. GWAS was run for each phenotype using Gemma and significant SNPs were detected. 

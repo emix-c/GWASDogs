@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  gs_consecutive_summaryList$result_Froh_genome_wide[, 4] and lr_consecutive_summaryList$result_Froh_genome_wide[, 4]
+t = -1.0663, df = 260.68, p-value = 0.2873
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.012107934  0.003601191
+sample estimates:
+mean of x mean of y 
+0.5485458 0.5527992 
+
